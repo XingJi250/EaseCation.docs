@@ -9,7 +9,6 @@
 ## 协管组 <a id="helper"></a>
 
 * [玩家协管参考文档](helper/reference-documents.md)
-* [玩家协管指导手册](helper/instruction-manual.md)
 * [账号体系介绍](helper/account.md)
 * [争议规则二次定义](helper/argue.md)
 
